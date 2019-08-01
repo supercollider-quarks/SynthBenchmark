@@ -6,6 +6,6 @@
 	\country: 		"UK",
 	\dependencies: ["MathLib"],
 	\helpdoc:		"SynthBenchmark.html",
-	\ext_dependancy: "gnu time (gtime on macports)",
+	\ext_dependency: "gnu time (gtime on macports)",
 	\since: 		"2010"
 )
